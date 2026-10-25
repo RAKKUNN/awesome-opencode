@@ -1,0 +1,4 @@
+name: Vicem
+repo: https://github.com/RAKKUNN/vicem
+tagline: Zero-dependency context baton, 80-90% code skeletonizer & desktop GUI for OpenCode and 11 other agents
+description: Vicem harvests OpenCode (v1 JSON storage and v2 SQLite opencode.db) sessions, git diffs, and repo context into a deterministic .vicem/BATON.md handoff and compresses source code by 80-90% into AST-like structural skeletons with lossless on-demand rehydration via its local stdio MCP server (`vicem_rehydrate`). Ships with a CLI, portable SKILL.md, and cross-platform desktop utility GUI (`vicem gui`). MIT, zero external dependencies.
